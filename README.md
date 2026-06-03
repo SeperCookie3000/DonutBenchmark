@@ -2,10 +2,6 @@
 
 **A spinning 3D ASCII donut in your terminal — an honest single-core CPU benchmark**
 
-## 📥 Download
-
-[Download DonutBenchmark.exe](DonutBenchmark.exe) — just click and save
-
 ## 🚀 How to run
 
 1. Download `DonutBenchmark.exe`
